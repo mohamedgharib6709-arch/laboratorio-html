@@ -93,3 +93,8 @@ footer {
     font-size: 14px;
     color: #526174;
 }
+
+    table, th, td {border: 1px solid black;}
+    caption {font-weight:bold;color: brown}
+    th {background-color: #75663F;} 
+    td {text-align: center;}
